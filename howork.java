@@ -31,5 +31,4 @@ public class howork {
         System.out.println("Максимальный элемент списка" + " " + "-" + " " + Collections.max(nums));
         System.out.println("Минимальный элемент списка" + " " + "-" + " " + Collections.min(nums));
     }
-
 }
